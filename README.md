@@ -21,9 +21,9 @@ A modern and responsive Tic Tac Toe game built with **React**, **Vite**, and **T
 
 ## 📸 Preview
 
-```md
-![Game Screenshot](./screenshots/game.png)
-```
+<p align="center">
+  <img src="./screenshots/game.png" width="600" alt="Game Screenshot" />
+</p>
 
 ---
 
