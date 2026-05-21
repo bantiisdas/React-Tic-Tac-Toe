@@ -22,7 +22,7 @@ A modern and responsive Tic Tac Toe game built with **React**, **Vite**, and **T
 ## 📸 Preview
 
 <p align="center">
-  <img src="./screenshots/game.png" width="600" alt="Game Screenshot" />
+  <img src="./screenshots/game.png" width="400" alt="Game Screenshot" />
 </p>
 
 ---
